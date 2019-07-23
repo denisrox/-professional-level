@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4594546f-1c41-430e-bc7c-a30a4173563f" name="Default Changelist" comment="completed 1" />
+    <list default="true" id="4594546f-1c41-430e-bc7c-a30a4173563f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/less1/fruit/awsd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/main/java/lesson2/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/main/java/lesson2/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/less1/WorkWitchArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="306">
               <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,16 +42,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/less1/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+            <state relative-caret-position="534">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#581#588#0" expanded="true" />
-                <element signature="e#724#732#0" expanded="true" />
-                <element signature="e#945#952#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -63,12 +66,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/awsd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -76,12 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Orange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -89,14 +93,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/less1/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
+            <state relative-caret-position="459">
               <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#444#445#0" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
                 <element signature="e#943#944#0" expanded="true" />
-                <element signature="e#971#972#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,25 +124,17 @@
         <option value="$PROJECT_DIR$/src/main/java/WorkWitchArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/less1/WorkWitchArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/less1/fruit/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/less1/fruit/Orange.java" />
         <option value="$PROJECT_DIR$/src/main/java/less1/Box.java" />
         <option value="$PROJECT_DIR$/src/main/java/less1/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/less1/fruit/awsd.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="419" />
-    <option name="y" value="565" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="504" />
+    <option name="y" value="185" />
     <option name="width" value="1348" />
     <option name="height" value="697" />
   </component>
@@ -149,6 +145,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,12 +192,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -250,7 +248,10 @@
       <option name="presentableId" value="Default" />
       <updated>1562088726016</updated>
       <workItem from="1562088731101" duration="7195000" />
-      <workItem from="1562171893510" duration="5540000" />
+      <workItem from="1562171893510" duration="6153000" />
+      <workItem from="1562257131776" duration="599000" />
+      <workItem from="1562497116617" duration="64000" />
+      <workItem from="1563814120287" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="completed 1">
       <created>1562176769313</created>
@@ -259,17 +260,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562176769313</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed 1">
+      <created>1562177695485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562177695485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12735000" />
+    <option name="totallyTimeSpent" value="15538000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="504" y="185" width="1348" height="697" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37965837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -278,7 +286,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,7 +295,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.53900707" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4968017" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -315,38 +323,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/less1/WorkWitchArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="306">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -354,30 +333,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/less1/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
+        <state relative-caret-position="459">
           <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
             <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/less1/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        <state relative-caret-position="534">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#581#588#0" expanded="true" />
-            <element signature="e#724#732#0" expanded="true" />
-            <element signature="e#945#952#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/less1/fruit/awsd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
